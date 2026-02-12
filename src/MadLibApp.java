@@ -14,7 +14,7 @@ public class MadLibApp {
         "sat down on a nearby rock.", "Of course I forgot to bring snacks... thought the",
         "The", "was scrambling through a", "backpack," , "until a", "noise disturbed the silence.",
         "Is that a bear? or is it just a", "shuffling through the weeds?", "The", "down the pathway to check," ,
-        "and stumbled across a", ", ten foot bear."
+        "and stumbled across a", " bear."
         
 
 
